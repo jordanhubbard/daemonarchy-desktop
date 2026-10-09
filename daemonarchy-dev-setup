@@ -1,7 +1,7 @@
 #!%%LOCALBASE%%/bin/bash
 
 # Set this machine up to work on Daemonarchy from Daemonarchy: clone the
-# three source trees into ~/src and, if asked, run Omarchy from the checkout.
+# source trees into ~/src and, if asked, run Omarchy from the checkout.
 #
 #   ~/src/omarchy        Omarchy, at the version installed here, on a branch
 #                        of your own. "omarchy dev link" runs the desktop from
@@ -9,6 +9,11 @@
 #   ~/src/freebsd-ports  The ports tree with the Omarchy ports (the omarchy
 #                        branch of jordanhubbard/freebsd-ports). Rebuild a
 #                        port with "sudo make reinstall clean" in its directory.
+#   ~/src/omarchy-freebsd     The FreeBSD layer x11-wm/omarchy installs with
+#                        Omarchy: freebsdize, the compat tools, the FreeBSD
+#                        versions of Omarchy's commands, the session units.
+#   ~/src/daemonarchy-desktop Daemonarchy's look and its System > FreeBSD
+#                        tools, installed by x11-wm/daemonarchy.
 #   ~/src/daemonarchy    The installer image and its build and test scripts.
 #
 #   daemonarchy-dev-setup [--no-ports]
@@ -40,6 +45,8 @@ if [[ -n $version ]] && git -C "$src/omarchy" rev-parse -q --verify "refs/tags/v
   echo "~/src/omarchy is on branch daemonarchy-dev, at Omarchy v$version (the installed version)."
 fi
 
+clone https://github.com/jordanhubbard/omarchy-freebsd.git "$src/omarchy-freebsd"
+clone https://github.com/jordanhubbard/daemonarchy-desktop.git "$src/daemonarchy-desktop"
 clone https://github.com/jordanhubbard/daemonarchy.git "$src/daemonarchy"
 
 if $with_ports; then
