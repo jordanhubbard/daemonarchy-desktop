@@ -1,0 +1,42 @@
+#!%%LOCALBASE%%/bin/bash
+
+# DTrace, FreeBSD's live tracing, as a menu of ready-made views of what the
+# system is doing right now. Each runs until Ctrl+C.
+#
+#   daemonarchy-dtrace [tool]
+
+set -euo pipefail
+
+# One-liners, as "label|script". Tallies print every five seconds.
+tools=(
+  "System calls by program|syscall:::entry { @[execname] = count(); } tick-5s { printa(\"%-24s %@10d\\n\", @); trunc(@); printf(\"\\n\"); }"
+  "Files being opened|syscall::openat:entry { printf(\"%-16s %s\\n\", execname, copyinstr(arg1)); }"
+  "Programs starting|proc:::exec-success { printf(\"%6d %s\\n\", pid, curpsinfo->pr_psargs); }"
+  "Disk I/O by program|io:::start { @[execname] = sum(args[0]->bio_bcount); } tick-5s { printa(\"%-24s %@12d bytes\\n\", @); trunc(@); printf(\"\\n\"); }"
+  "CPU time by program|profile-997 { @[execname] = count(); } tick-5s { trunc(@, 15); printa(\"%-24s %@8d samples\\n\", @); trunc(@); printf(\"\\n\"); }"
+  "Network connections|fbt::tcp_connect:entry, fbt::tcp6_connect:entry { printf(\"%-16s pid %d\\n\", execname, pid); }"
+)
+
+labels() {
+  local tool
+  for tool in "${tools[@]}"; do echo "${tool%%|*}"; done
+}
+
+script_for() {
+  local tool
+  for tool in "${tools[@]}"; do
+    [[ ${tool%%|*} == "$1" ]] && { echo "${tool#*|}"; return; }
+  done
+  return 1
+}
+
+choice=${1:-}
+if [[ -z $choice ]]; then
+  choice=$(labels | gum choose --header "Trace what?") || exit 0
+fi
+script=$(script_for "$choice") || { echo "No such tool: $choice" >&2; labels >&2; exit 1; }
+
+sudo kldload -n dtraceall
+echo "Tracing: $choice (Ctrl+C to stop)"
+echo
+sudo dtrace -q -n "$script" || true

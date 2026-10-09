@@ -1,0 +1,7 @@
+[SddmGreeterTheme]
+Name=Daemonarchy
+Description=Omarchy's login theme with the Daemonarchy wordmark
+Author=Daemonarchy
+Type=sddm-theme
+Version=1.0
+QtVersion=6

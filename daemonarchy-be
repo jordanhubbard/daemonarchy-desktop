@@ -1,0 +1,77 @@
+#!%%LOCALBASE%%/bin/bash
+
+# Boot environments: whole-system snapshots of the ZFS root, each bootable from
+# the loader menu. Every Omarchy update creates one first (omarchy-snapshot);
+# this lists them, makes one on demand, rolls back, and deletes old ones.
+#
+#   daemonarchy-be [list|create [name]|rollback|delete]
+
+set -euo pipefail
+
+if ! bectl list >/dev/null 2>&1; then
+  echo "This system does not boot from ZFS, so it has no boot environments." >&2
+  exit 1
+fi
+
+show() {
+  echo
+  printf '%-36s %-6s %-10s %s\n' "Boot environment" "Active" "Space" "Created"
+  bectl list -H -C creation | awk '{ printf "%-36s %-6s %-10s %s %s\n", $1, $2, $4, $5, $6 }'
+  echo
+  gum style --foreground 8 "N = running now, R = boots next.  Pick any of them from the boot menu too."
+  echo
+}
+
+create() {
+  local name=${1:-manual-$(date +%Y-%m-%d-%H%M%S)}
+  sudo bectl create "$name"
+  echo "Created boot environment $name."
+}
+
+rollback() {
+  local choice
+  mapfile -t envs < <(bectl list -H -C creation | awk '$2 !~ /R/ { print $1 }')
+  if (( ${#envs[@]} == 0 )); then
+    echo "No other boot environment to roll back to."
+    return
+  fi
+  choice=$(printf '%s\n' "${envs[@]}" | gum choose --header "Boot which environment next?") || return 0
+  sudo bectl activate "$choice"
+  echo "$choice boots next. Your current system is kept as it is."
+  if gum confirm "Reboot now?"; then
+    omarchy-system-reboot
+  fi
+}
+
+delete() {
+  local choice
+  mapfile -t envs < <(bectl list -H -C creation | awk '$2 !~ /[NR]/ { print $1 }')
+  if (( ${#envs[@]} == 0 )); then
+    echo "No boot environment can be deleted (the running and next ones are kept)."
+    return
+  fi
+  choice=$(printf '%s\n' "${envs[@]}" | gum choose --header "Delete which environment?") || return 0
+  if gum confirm "Delete $choice for good?"; then
+    sudo bectl destroy -o "$choice"
+    echo "Deleted $choice."
+  fi
+}
+
+case ${1:-} in
+  list) show ;;
+  create) create "${2:-}" ;;
+  rollback) rollback ;;
+  delete) delete ;;
+  "")
+    show
+    case $(gum choose "Roll back" "Create one now" "Delete one" "Done") in
+      "Roll back") rollback ;;
+      "Create one now") create ;;
+      "Delete one") delete ;;
+    esac
+    ;;
+  *)
+    echo "Usage: daemonarchy-be [list|create [name]|rollback|delete]" >&2
+    exit 1
+    ;;
+esac

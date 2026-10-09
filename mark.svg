@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="910" viewBox="120 26 760 910">
+<defs>
+<linearGradient id="horn" x1="0" y1="0" x2="1" y2="1">
+ <stop offset="0" stop-color="#ff6b5c"/><stop offset="0.5" stop-color="#d4101c"/><stop offset="1" stop-color="#7a040d"/>
+</linearGradient>
+<linearGradient id="mark" x1="0" y1="0" x2="0" y2="1">
+ <stop offset="0" stop-color="#ff3b3b"/><stop offset="0.55" stop-color="#b80d26"/><stop offset="1" stop-color="#5a0620"/>
+</linearGradient>
+</defs>
+<path fill="url(#horn)" d="M 446,228 C 400,206 330,176 296,84 C 290,196 328,296 390,348 Z"/>
+<path fill="url(#horn)" d="M 554,228 C 600,206 670,176 704,84 C 710,196 672,296 610,348 Z"/>
+<path fill="url(#mark)" fill-rule="evenodd" d="M 500,110 L 880,935 L 700,935 L 628,770 L 372,770 L 300,935 L 120,935 Z M 500,370 L 572,640 L 428,640 Z"/>
+</svg>

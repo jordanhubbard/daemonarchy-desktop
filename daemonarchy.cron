@@ -1,0 +1,2 @@
+# Hourly ZFS snapshots of home directories (daemonarchy-home-snapshots).
+0	*	*	*	*	root	%%PREFIX%%/bin/daemonarchy-home-snapshots take

@@ -1,0 +1,67 @@
+#!%%LOCALBASE%%/bin/bash
+
+# Automatic ZFS snapshots of home directories, and getting files back from
+# them. cron runs "take" every hour as root (%%PREFIX%%/etc/cron.d/daemonarchy);
+# it keeps the last 24 hourly snapshots and the last 7 daily ones. Snapshots
+# are read-only copies of the whole home dataset, browsable as ordinary
+# directories under its .zfs/snapshot.
+#
+#   daemonarchy-home-snapshots [take|list|restore]
+
+set -euo pipefail
+
+# cron's PATH has no /sbin, where zfs lives.
+export PATH=/sbin:/bin:/usr/sbin:/usr/bin:/usr/local/sbin:/usr/local/bin:$PATH
+
+KEEP_HOURLY=24
+KEEP_DAILY=7
+
+home_dataset() {
+  zfs list -H -o name "${1:-/home}" 2>/dev/null
+}
+
+prune() {
+  local dataset=$1 kind=$2 keep=$3
+  zfs list -H -t snapshot -o name -S creation -d 1 "$dataset" |
+    grep "@auto-$kind-" | tail -n +$((keep + 1)) |
+    while read -r snapshot; do zfs destroy -r "$snapshot"; done
+}
+
+take() {
+  local dataset
+  dataset=$(home_dataset) || exit 0
+  zfs snapshot -r "$dataset@auto-hourly-$(date +%Y-%m-%d-%H%M)"
+  prune "$dataset" hourly "$KEEP_HOURLY"
+  if [[ $(date +%H) == 00 ]] || ! zfs list -H -t snapshot -o name -d 1 "$dataset" | grep -q "@auto-daily-$(date +%Y-%m-%d)"; then
+    zfs snapshot -r "$dataset@auto-daily-$(date +%Y-%m-%d)" 2>/dev/null || true
+    prune "$dataset" daily "$KEEP_DAILY"
+  fi
+}
+
+list() {
+  local dataset
+  dataset=$(home_dataset "$HOME") || { echo "Your home is not on ZFS." >&2; exit 1; }
+  zfs list -H -t snapshot -o name,creation -S creation -d 1 "$dataset" | sed 's/^[^@]*@//'
+}
+
+# Open a snapshot of your home in the file manager, at your own directory, to
+# copy files back from.
+restore() {
+  local dataset mountpoint snapshot relative
+  dataset=$(home_dataset "$HOME") || { echo "Your home is not on ZFS." >&2; exit 1; }
+  mountpoint=$(zfs get -H -o value mountpoint "$dataset")
+  snapshot=$(list | awk -F'\t' '{ print $1 }' | gum choose --header "Browse your home as it was at...") || exit 0
+  relative=${HOME#"$mountpoint"}
+  xdg-open "$mountpoint/.zfs/snapshot/$snapshot$relative" >/dev/null 2>&1 &
+  echo "Opened $snapshot. Copy what you need back into your home; the snapshot itself is read-only."
+}
+
+case ${1:-restore} in
+  take) take ;;
+  list) list ;;
+  restore) restore ;;
+  *)
+    echo "Usage: daemonarchy-home-snapshots [take|list|restore]" >&2
+    exit 1
+    ;;
+esac

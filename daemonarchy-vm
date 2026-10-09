@@ -1,0 +1,143 @@
+#!%%LOCALBASE%%/bin/bash
+
+# Virtual machines with bhyve, FreeBSD's hypervisor, through vm-bhyve. The
+# first use sets vm-bhyve up: a ZFS dataset for the machines, the stock
+# templates, and a "public" switch bridged onto the main network interface,
+# so guests get addresses from the same network as this machine.
+#
+#   daemonarchy-vm [list|create [name template size cpus memory]|install <vm> <iso>|start <vm>|view <vm>|stop <vm>|console <vm>|destroy <vm> [--yes]]
+
+set -euo pipefail
+
+pool=$(zfs list -H -o name / 2>/dev/null | cut -d/ -f1)
+if [[ -z $pool ]]; then
+  echo "VMs here live on ZFS, and this system does not boot from ZFS." >&2
+  exit 1
+fi
+
+setup() {
+  local nic
+  [[ $(sysrc -n vm_enable 2>/dev/null) == YES ]] && return 0
+  echo "Setting up bhyve for the first time..."
+  zfs list -H "$pool/vm" >/dev/null 2>&1 || sudo zfs create -o mountpoint=/usr/local/vm "$pool/vm"
+  sudo sysrc -q vm_enable=YES vm_dir="zfs:$pool/vm" >/dev/null
+  sudo kldload -n vmm
+  grep -q '^vmm_load=' /boot/loader.conf 2>/dev/null || echo 'vmm_load="YES"' | sudo tee -a /boot/loader.conf >/dev/null
+  sudo vm init
+  sudo cp /usr/local/share/examples/vm-bhyve/*.conf "$(vm_dir)/.templates/"
+  nic=$(route -n get default 2>/dev/null | awk '/interface:/ { print $2 }')
+  if [[ -n $nic ]] && ! sudo vm switch list | awk 'NR > 1 { print $1 }' | grep -qx public; then
+    sudo vm switch create public
+    sudo vm switch add public "$nic"
+  fi
+}
+
+names() {
+  sudo vm list | awk 'NR > 1 { print $1 }'
+}
+
+pick() {
+  local list
+  list=$(names)
+  [[ -n $list ]] || { echo "There are no VMs yet." >&2; return 1; }
+  echo "$list" | gum choose --header "$1"
+}
+
+# Every VM boots with UEFI, so the same machine runs FreeBSD, Linux, or
+# Windows installers; templates differ only in sensible sizes and drivers.
+# create [name template size cpus memory]: asks for whatever is not given.
+create() {
+  local name=${1:-} template=${2:-} size=${3:-} cpus=${4:-} mem=${5:-} port
+  [[ -n $name ]] || name=$(gum input --placeholder "name, like debian or win11" --prompt "VM name> ") || return 0
+  [[ $name =~ ^[a-zA-Z][a-zA-Z0-9_-]{0,30}$ ]] || { echo "VM names are letters, digits, - and _." >&2; return 1; }
+  [[ -n $template ]] || template=$(printf '%s\n' freebsd-zvol linux-zvol windows openbsd netbsd default |
+    gum choose --header "Template (the guest's operating system)") || return 0
+  [[ -n $size ]] || size=$(gum input --value "40G" --prompt "Disk size> ") || return 0
+  [[ -n $cpus ]] || cpus=$(gum input --value "2" --prompt "CPUs> ") || return 0
+  [[ -n $mem ]] || mem=$(gum input --value "4G" --prompt "Memory> ") || return 0
+  sudo vm create -t "$template" -s "$size" -c "$cpus" -m "$mem" "$name"
+  # Each VM gets its own VNC port for its screen, starting at 5900.
+  port=5900
+  while grep -qs "^graphics_port=\"$port\"" "$(vm_dir)"/*/*.conf; do port=$((port + 1)); done
+  sudo sysrc -q -f "$(vm_conf "$name")" loader=uefi graphics=yes graphics_listen=127.0.0.1 \
+    graphics_port="$port" xhci_mouse=yes >/dev/null
+  echo "Created $name. Start its installer with: daemonarchy-vm install $name <iso file or URL>"
+}
+
+vm_dir() {
+  zfs get -H -o value mountpoint "$pool/vm"
+}
+
+vm_conf() {
+  echo "$(vm_dir)/$1/$1.conf"
+}
+
+# A VM's screen, through TigerVNC's viewer.
+view() {
+  local port
+  port=$(sysrc -n -f "$(vm_conf "$1")" graphics_port 2>/dev/null) || { echo "$1 has no screen (graphics are off)." >&2; return 1; }
+  daemon -f vncviewer "127.0.0.1::$port"
+}
+
+install() {
+  local name=$1 iso=$2
+  if [[ $iso == http*://* ]]; then
+    sudo vm iso "$iso"
+    iso=${iso##*/}
+  else
+    iso=$(realpath "$iso")
+  fi
+  sudo vm install "$name" "$iso"
+  echo "Installer started; opening its screen."
+  view "$name"
+}
+
+# A running VM cannot be deleted: power it off first.
+destroy() {
+  local name=$1 tries
+  if sudo vm list | awk -v n="$name" '$1 == n && /Running|Locked/ { found = 1 } END { exit !found }'; then
+    sudo vm poweroff -f "$name" >/dev/null 2>&1 || true
+    for tries in 1 2 3 4 5 6 7 8 9 10; do
+      sudo vm list | awk -v n="$name" '$1 == n && /Running|Locked/ { found = 1 } END { exit !found }' || break
+      sleep 1
+    done
+  fi
+  sudo vm destroy -f "$name"
+}
+
+case ${1:-} in
+  setup) setup ;;
+  list) setup; sudo vm list ;;
+  create) setup; shift; create "$@" ;;
+  install) setup; install "${2:?usage: daemonarchy-vm install <vm> <iso>}" "${3:?usage: daemonarchy-vm install <vm> <iso>}" ;;
+  start) sudo vm start "${2:?usage: daemonarchy-vm start <vm>}" ;;
+  stop) sudo vm stop "${2:?usage: daemonarchy-vm stop <vm>}" ;;
+  console) sudo vm console "${2:?usage: daemonarchy-vm console <vm>}" ;;
+  view) view "${2:?usage: daemonarchy-vm view <vm>}" ;;
+  destroy)
+    if [[ ${3:-} == --yes ]] || gum confirm "Delete VM ${2:?usage: daemonarchy-vm destroy <vm> [--yes]} and its disk?"; then
+      destroy "$2"
+    fi
+    ;;
+  "")
+    setup
+    echo; sudo vm list; echo
+    case $(gum choose "Create a VM" "Install from an ISO" "Start a VM" "View a VM's screen" "Stop a VM" "Open a VM's console" "Delete a VM" "Done") in
+      "Create a VM") create ;;
+      "Install from an ISO")
+        name=$(pick "Install into which VM?") || exit 0
+        iso=$(gum input --placeholder "/path/to/installer.iso or https://..." --prompt "ISO> ") || exit 0
+        install "$name" "$iso"
+        ;;
+      "Start a VM") name=$(pick "Start which VM?") && sudo vm start "$name" ;;
+      "View a VM's screen") name=$(pick "View which VM?") && view "$name" ;;
+      "Stop a VM") name=$(pick "Stop which VM?") && sudo vm stop "$name" ;;
+      "Open a VM's console") name=$(pick "Console of which VM?") && sudo vm console "$name" ;;
+      "Delete a VM") name=$(pick "Delete which VM?") && gum confirm "Delete $name and its disk?" && destroy "$name" ;;
+    esac
+    ;;
+  *)
+    echo "Usage: daemonarchy-vm [list|create [name template size cpus memory]|install <vm> <iso>|start <vm>|view <vm>|stop <vm>|console <vm>|destroy <vm> [--yes]]" >&2
+    exit 1
+    ;;
+esac

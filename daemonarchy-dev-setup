@@ -1,0 +1,57 @@
+#!%%LOCALBASE%%/bin/bash
+
+# Set this machine up to work on Daemonarchy from Daemonarchy: clone the
+# three source trees into ~/src and, if asked, run Omarchy from the checkout.
+#
+#   ~/src/omarchy        Omarchy, at the version installed here, on a branch
+#                        of your own. "omarchy dev link" runs the desktop from
+#                        it; edits take effect as they are saved.
+#   ~/src/freebsd-ports  The ports tree with the Omarchy ports (the omarchy
+#                        branch of jordanhubbard/freebsd-ports). Rebuild a
+#                        port with "sudo make reinstall clean" in its directory.
+#   ~/src/daemonarchy    The installer image and its build and test scripts.
+#
+#   daemonarchy-dev-setup [--no-ports]
+
+set -euo pipefail
+
+src=$HOME/src
+with_ports=true
+[[ ${1:-} == --no-ports ]] && with_ports=false
+
+mkdir -p "$src"
+
+clone() {
+  local url=$1 dir=$2
+  shift 2
+  if [[ -d $dir/.git ]]; then
+    echo "$dir is already there."
+    return
+  fi
+  echo "Cloning $url into $dir..."
+  git clone "$@" "$url" "$dir"
+}
+
+version=$(omarchy-version 2>/dev/null | sed 's/[_,].*//')
+clone https://github.com/basecamp/omarchy.git "$src/omarchy"
+if [[ -n $version ]] && git -C "$src/omarchy" rev-parse -q --verify "refs/tags/v$version" >/dev/null; then
+  git -C "$src/omarchy" switch -q -c daemonarchy-dev "v$version" 2>/dev/null ||
+    git -C "$src/omarchy" switch -q daemonarchy-dev
+  echo "~/src/omarchy is on branch daemonarchy-dev, at Omarchy v$version (the installed version)."
+fi
+
+clone https://github.com/jordanhubbard/daemonarchy.git "$src/daemonarchy"
+
+if $with_ports; then
+  # The whole ports tree is needed to build ports; fetch file contents lazily.
+  clone https://github.com/jordanhubbard/freebsd-ports.git "$src/freebsd-ports" --branch omarchy --filter=blob:none
+fi
+
+echo
+if gum confirm "Run the desktop from ~/src/omarchy now (omarchy dev link)?"; then
+  omarchy-dev-link "$src/omarchy"
+else
+  echo "Later: omarchy dev link ~/src/omarchy (and omarchy dev unlink to go back)."
+fi
+echo
+echo "HACKING.md in ~/src/daemonarchy covers the rest: ports, the installer, the image."

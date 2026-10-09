@@ -1,0 +1,144 @@
+#!%%LOCALBASE%%/bin/bash
+
+# Jails: lightweight FreeBSD containers, each a ZFS dataset holding a FreeBSD
+# base of the host's version, sharing the host's network. They are ordinary
+# jail(8)s, configured in /etc/jail.conf.d and started at boot by rc.
+#
+#   daemonarchy-jail [list|create <name>|shell <name>|start <name>|stop <name>|destroy <name> [--yes]]
+
+set -euo pipefail
+
+pool=$(zfs list -H -o name / 2>/dev/null | cut -d/ -f1)
+if [[ -z $pool ]]; then
+  echo "Jails here live on ZFS, and this system does not boot from ZFS." >&2
+  exit 1
+fi
+dataset=$pool/jails
+jails_dir=/usr/local/jails
+cache=/var/cache/daemonarchy
+
+names() {
+  ls /etc/jail.conf.d 2>/dev/null | sed -n 's/\.conf$//p'
+}
+
+valid_name() {
+  [[ $1 =~ ^[a-z][a-z0-9_-]{0,30}$ ]]
+}
+
+pick() {
+  local header=$1 list
+  list=$(names)
+  if [[ -z $list ]]; then
+    echo "There are no jails yet." >&2
+    return 1
+  fi
+  echo "$list" | gum choose --header "$header"
+}
+
+# The base system to put in a jail: the release sets of the version the host
+# runs, from download.freebsd.org (snapshots for -CURRENT and -STABLE).
+base_url() {
+  local version arch
+  version=$(freebsd-version -u | sed 's/-p[0-9]*$//')
+  arch=$(uname -m)
+  case $version in
+    *-CURRENT | *-STABLE | *-PRERELEASE | *-ALPHA* | *-BETA* | *-RC*)
+      echo "https://download.freebsd.org/snapshots/$arch/$version/base.txz" ;;
+    *) echo "https://download.freebsd.org/releases/$arch/$version/base.txz" ;;
+  esac
+}
+
+list() {
+  echo
+  printf '%-20s %-8s %s\n' "Jail" "State" "Path"
+  for name in $(names); do
+    if jls -j "$name" jid >/dev/null 2>&1; then state=running; else state=stopped; fi
+    printf '%-20s %-8s %s\n' "$name" "$state" "$jails_dir/$name"
+  done
+  echo
+}
+
+create() {
+  local name=$1 url tarball
+  valid_name "$name" || { echo "Jail names are lowercase letters, digits, - and _." >&2; exit 1; }
+  [[ -e /etc/jail.conf.d/$name.conf ]] && { echo "A jail named $name already exists." >&2; exit 1; }
+
+  url=$(base_url)
+  tarball=$cache/$(freebsd-version -u | sed 's/-p[0-9]*$//')-base.txz
+  sudo mkdir -p "$cache"
+  if [[ ! -s $tarball ]]; then
+    echo "Downloading the FreeBSD base system for jails..."
+    sudo fetch -o "$tarball" "$url"
+  fi
+
+  zfs list -H "$dataset" >/dev/null 2>&1 || sudo zfs create -o mountpoint="$jails_dir" "$dataset"
+  sudo zfs create "$dataset/$name"
+  echo "Unpacking the base system into $jails_dir/$name..."
+  sudo tar -xpf "$tarball" -C "$jails_dir/$name"
+  sudo cp /etc/resolv.conf "$jails_dir/$name/etc/resolv.conf"
+  sudo cp /etc/localtime "$jails_dir/$name/etc/localtime" 2>/dev/null || true
+
+  sudo mkdir -p /etc/jail.conf.d
+  sudo tee "/etc/jail.conf.d/$name.conf" >/dev/null <<EOF
+$name {
+  path = "$jails_dir/$name";
+  host.hostname = "$name";
+  ip4 = inherit;
+  ip6 = inherit;
+  allow.raw_sockets;
+  mount.devfs;
+  exec.clean;
+  exec.start = "/bin/sh /etc/rc";
+  exec.stop = "/bin/sh /etc/rc.shutdown jail";
+}
+EOF
+  sudo sysrc -q jail_enable=YES >/dev/null
+  sudo sysrc -q jail_list+="$name" >/dev/null
+  sudo service jail start "$name"
+  echo
+  echo "Jail $name is running. Open a shell in it with: daemonarchy-jail shell $name"
+  echo "Inside, pkg works as usual (pkg install ...)."
+}
+
+shell() {
+  local name=$1
+  jls -j "$name" jid >/dev/null 2>&1 || sudo service jail start "$name"
+  sudo jexec -l "$name" /bin/sh
+}
+
+destroy() {
+  local name=$1
+  [[ -e /etc/jail.conf.d/$name.conf ]] || { echo "No jail named $name." >&2; exit 1; }
+  [[ ${2:-} == --yes ]] || gum confirm "Delete jail $name and everything in it?" || return 0
+  sudo service jail stop "$name" >/dev/null 2>&1 || true
+  sudo sysrc -q jail_list-="$name" >/dev/null
+  sudo rm -f "/etc/jail.conf.d/$name.conf"
+  sudo zfs destroy -r "$dataset/$name"
+  echo "Deleted jail $name."
+}
+
+case ${1:-} in
+  list) list ;;
+  create) create "${2:?usage: daemonarchy-jail create <name>}" ;;
+  shell) shell "${2:?usage: daemonarchy-jail shell <name>}" ;;
+  start) sudo service jail start "${2:?usage: daemonarchy-jail start <name>}" ;;
+  stop) sudo service jail stop "${2:?usage: daemonarchy-jail stop <name>}" ;;
+  destroy) destroy "${2:?usage: daemonarchy-jail destroy <name> [--yes]}" "${3:-}" ;;
+  "")
+    list
+    case $(gum choose "Create a jail" "Open a shell in a jail" "Start a jail" "Stop a jail" "Delete a jail" "Done") in
+      "Create a jail")
+        name=$(gum input --placeholder "name, like build or web" --prompt "Jail name> ") || exit 0
+        [[ -n $name ]] && create "$name"
+        ;;
+      "Open a shell in a jail") name=$(pick "Shell into which jail?") && shell "$name" ;;
+      "Start a jail") name=$(pick "Start which jail?") && sudo service jail start "$name" ;;
+      "Stop a jail") name=$(pick "Stop which jail?") && sudo service jail stop "$name" ;;
+      "Delete a jail") name=$(pick "Delete which jail?") && destroy "$name" ;;
+    esac
+    ;;
+  *)
+    echo "Usage: daemonarchy-jail [list|create <name>|shell <name>|start <name>|stop <name>|destroy <name> [--yes]]" >&2
+    exit 1
+    ;;
+esac
