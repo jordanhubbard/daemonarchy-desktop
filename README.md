@@ -13,6 +13,7 @@ Daemonarchy's own layer over the [Omarchy](https://omarchy.org) desktop on FreeB
   - `daemonarchy-vm`: bhyve virtual machines, through vm-bhyve
   - `daemonarchy-dtrace`: ready-made DTrace views
   - `daemonarchy-dev-setup`: get the sources and run the desktop from a checkout
+  - `daemonarchy-cudalab`: live CUDA studio on NVIDIA, opened from System > FreeBSD
 
 Files carry `%%PREFIX%%` and `%%LOCALBASE%%` placeholders, which the port fills in.
 
