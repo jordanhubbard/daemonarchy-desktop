@@ -17,6 +17,15 @@ Daemonarchy's own layer over the [Omarchy](https://omarchy.org) desktop on FreeB
 
 Files carry `%%PREFIX%%` and `%%LOCALBASE%%` placeholders, which the port fills in.
 
+The package actions under **Install > Packages** and **Remove > Packages**
+open OctoPkg as the desktop user. OctoPkg browses the configured FreeBSD and
+Daemonarchy package repositories and requests administrator authentication
+for changes. Chromium and OctoPkg are core desktop dependencies.
+
+Use `daemonarchy --help` for the desktop command center. Its implementation
+lives in omarchy-freebsd; the internal `omarchy-*` commands remain compatible
+with the upstream desktop.
+
 Releases use [semantic versioning](https://semver.org) and match the Daemonarchy release they belong to.
 
 Daemonarchy is not affiliated with or endorsed by Omarchy, the FreeBSD Project, or The FreeBSD Foundation. FreeBSD is a registered trademark of The FreeBSD Foundation.

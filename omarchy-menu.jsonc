@@ -1,4 +1,6 @@
 {
+  "install.package": {"icon":"󰏖","label":"Packages","description":"Search and install FreeBSD packages","action":"uwsm-app -- octopkg"},
+  "remove.package": {"icon":"󰏖","label":"Packages","description":"Browse and remove installed FreeBSD packages","action":"uwsm-app -- octopkg"},
   // Daemonarchy's additions to the Omarchy menu: FreeBSD features, under
   // System > FreeBSD. Installed by the daemonarchy package as the vendor menu,
   // merged after Omarchy's own entries and before the user's extension.
