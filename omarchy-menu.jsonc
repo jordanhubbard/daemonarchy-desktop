@@ -11,5 +11,4 @@
   "system.freebsd.vms": {"icon":"󰍹","label":"Virtual Machines","description":"Run other operating systems with bhyve","action":"omarchy-launch-floating-terminal-with-presentation daemonarchy-vm"},
   "system.freebsd.hack": {"icon":"󰵮","label":"Hack on Daemonarchy","description":"Get the sources and run the desktop from your own checkout","action":"omarchy-launch-floating-terminal-with-presentation daemonarchy-dev-setup"},
   "system.freebsd.dtrace": {"icon":"󰓅","label":"Trace the System","description":"See what the system is doing right now with DTrace","action":"omarchy-launch-floating-terminal-with-presentation daemonarchy-dtrace"},
-  "system.freebsd.cudalab": {"icon":"󰈸","label":"Cudalab","when":"command -v daemonarchy-cudalab >/dev/null","description":"Live CUDA studio on NVIDIA: cosmos, oceans, glass, and tensor cores","action":"omarchy-launch-floating-terminal-with-presentation daemonarchy-cudalab"},
 }
