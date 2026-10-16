@@ -1,5 +1,8 @@
 #!%%LOCALBASE%%/bin/bash
 
+# omarchy:summary=Manage bhyve virtual machines
+# omarchy:args=[list|create [name template size cpus memory]|install <vm> <iso>|start <vm>|view <vm>|stop <vm>|console <vm>|destroy <vm> [--yes]]
+
 # Virtual machines with bhyve, FreeBSD's hypervisor, through vm-bhyve. The
 # first use sets vm-bhyve up: a ZFS dataset for the machines, the stock
 # templates, and a "public" switch bridged onto the main network interface,

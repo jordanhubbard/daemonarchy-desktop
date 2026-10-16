@@ -1,5 +1,8 @@
 #!%%LOCALBASE%%/bin/bash
 
+# omarchy:summary=Take or browse ZFS home snapshots
+# omarchy:args=[take|list|restore]
+
 # Automatic ZFS snapshots of home directories, and getting files back from
 # them. cron runs "take" every hour as root (%%PREFIX%%/etc/cron.d/daemonarchy);
 # it keeps the last 24 hourly snapshots and the last 7 daily ones. Snapshots

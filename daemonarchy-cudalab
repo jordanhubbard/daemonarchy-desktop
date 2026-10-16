@@ -1,4 +1,7 @@
 #!%%LOCALBASE%%/bin/bash
+
+# omarchy:summary=Open the optional NVIDIA Cudalab studio
+# omarchy:args=[demo]
 # Open the Cudalab studio on the NVIDIA Linuxulator. The first launch installs
 # the CUDA toolkit. An optional argument is a demo name, such as cuda-cosmos.
 set -euo pipefail

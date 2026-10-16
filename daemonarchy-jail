@@ -1,5 +1,8 @@
 #!%%LOCALBASE%%/bin/bash
 
+# omarchy:summary=Manage FreeBSD jails
+# omarchy:args=[list|create <name>|shell <name>|start <name>|stop <name>|destroy <name> [--yes]]
+
 # Jails: lightweight FreeBSD containers, each a ZFS dataset holding a FreeBSD
 # base of the host's version, sharing the host's network. They are ordinary
 # jail(8)s, configured in /etc/jail.conf.d and started at boot by rc.

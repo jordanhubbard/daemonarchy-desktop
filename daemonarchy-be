@@ -1,5 +1,8 @@
 #!%%LOCALBASE%%/bin/bash
 
+# omarchy:summary=Manage ZFS boot environments
+# omarchy:args=[list|create [name]|rollback|delete]
+
 # Boot environments: whole-system snapshots of the ZFS root, each bootable from
 # the loader menu. Every Omarchy update creates one first (omarchy-snapshot);
 # this lists them, makes one on demand, rolls back, and deletes old ones.

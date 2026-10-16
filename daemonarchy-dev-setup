@@ -1,5 +1,7 @@
 #!%%LOCALBASE%%/bin/bash
 
+# omarchy:summary=Prepare Daemonarchy source checkouts
+
 # Set this machine up to work on Daemonarchy from Daemonarchy: clone the
 # source trees into ~/src and, if asked, run Omarchy from the checkout.
 #

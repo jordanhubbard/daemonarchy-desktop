@@ -1,5 +1,8 @@
 #!%%LOCALBASE%%/bin/bash
 
+# omarchy:summary=Trace system activity with DTrace
+# omarchy:args=[tool]
+
 # DTrace, FreeBSD's live tracing, as a menu of ready-made views of what the
 # system is doing right now. Each runs until Ctrl+C.
 #
