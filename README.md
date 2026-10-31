@@ -29,3 +29,18 @@ with the upstream desktop.
 Releases use [semantic versioning](https://semver.org) and match the Daemonarchy release they belong to.
 
 Daemonarchy is not affiliated with or endorsed by Omarchy, the FreeBSD Project, or The FreeBSD Foundation. FreeBSD is a registered trademark of The FreeBSD Foundation.
+
+## Release Engineers
+
+- `jordanhubbard`
+
+## Versioning and releases
+
+This repository's version follows the Daemonarchy product version (`literate.project.json` `version`),
+and a release is tagged `vX.Y.Z` (the prefix the port `x11-wm/daemonarchy` already uses in
+`DISTVERSIONPREFIX`) at the commit the product release selects. The port pins that exact commit in
+`GH_TAGNAME`, so a change here reaches users only after a pin bump in daemonarchy-ports and a new package
+in the feed. The last tag before this convention is `v1.1.1`; tags `v1.2.0` to `v1.4.1` were not made
+(the port pinned commits), so the first tag under this convention is the product's next release.
+`tests/check.py` is the release gate: it checks the shell tools, the menu, the SVG artwork and the desktop
+entry without installing anything.
