@@ -29,3 +29,7 @@ with the upstream desktop.
 Releases use [semantic versioning](https://semver.org) and match the Daemonarchy release they belong to.
 
 Daemonarchy is not affiliated with or endorsed by Omarchy, the FreeBSD Project, or The FreeBSD Foundation. FreeBSD is a registered trademark of The FreeBSD Foundation.
+
+## License
+
+This repository is part of the Daemonarchy project. See [LICENSE](LICENSE) and [licenses/README.md](licenses/README.md) for which files are under which license.
