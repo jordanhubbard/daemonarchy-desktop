@@ -1,0 +1,137 @@
+{
+  "schema": "urn:literate-ai:schema:v2:project-definition",
+  "project_id": "daemonarchy-desktop",
+  "version": "1.4.1",
+  "profile": "canonical",
+  "agent_skill": "SKILL.md",
+  "component_roots": [
+    "components",
+    "samples"
+  ],
+  "flavor_roots": [
+    "flavors"
+  ],
+  "skill_roots": [
+    "skills"
+  ],
+  "workflow_roots": [
+    "workflows"
+  ],
+  "routing_roots": [
+    "routing"
+  ],
+  "documentation_roots": [
+    "docs"
+  ],
+  "source_intelligence": {
+    "schema": "urn:literate-ai:schema:v1:project-source-intelligence-policy",
+    "provider_id": "none",
+    "command": null,
+    "minimum_version": null,
+    "artifact_path": null,
+    "stages": {
+      "project-maintenance": "off",
+      "source-generation": "off",
+      "cache-consumption": "off",
+      "source-to-specification": "off",
+      "repository-source-admission": "off",
+      "structural-review": "off"
+    },
+    "artifact_publication": "metadata-only"
+  },
+  "lifecycle_driver": {
+    "schema": "urn:literate-ai:schema:v2:project-lifecycle-driver",
+    "binding": "standard",
+    "framework_distribution_identity": {
+      "schema": "urn:literate-ai:schema:v1:content-identity",
+      "algorithm": "sha256",
+      "digest": "de4cdd91e56b56019b521b52bec54fd2575b16daa9e240238e42f17409346dfd"
+    },
+    "policy_identity": {
+      "schema": "urn:literate-ai:schema:v1:content-identity",
+      "algorithm": "sha256",
+      "digest": "a5ca0d6d13daff0199f218c5e4af723a2cec87b927e75dd3a731c511b5d85ac7"
+    }
+  },
+  "source_cache": {
+    "schema": "urn:literate-ai:schema:v2:source-cache-configuration",
+    "mode": "read-write",
+    "targets": [
+      {
+        "schema": "urn:literate-ai:schema:v2:source-cache-target",
+        "target_id": "standard-local",
+        "format": "filesystem-v2",
+        "root_kind": "operator-bound",
+        "root_reference": "standard-local-source-cache"
+      },
+      {
+        "schema": "urn:literate-ai:schema:v2:source-cache-target",
+        "target_id": "project-committed",
+        "format": "filesystem-v2",
+        "root_kind": "project-relative",
+        "root_reference": "generated/committed-source-cache"
+      }
+    ],
+    "write_target_id": "standard-local",
+    "require_unique": true
+  },
+  "test_receipt": "verification/current.json",
+  "test_receipt_policy": {
+    "schema": "urn:literate-ai:schema:v1:project-test-receipt-policy",
+    "suite_id": "literate-ai-standard",
+    "suite_version": "1.0.0",
+    "runner_identity": {
+      "schema": "urn:literate-ai:schema:v1:content-identity",
+      "algorithm": "sha256",
+      "digest": "104e8026c7f8d6c73c4ab33a1c2289bb972a074818a35822120e01b4680d3b58"
+    },
+    "required_evidence_kinds": [
+      "acceptance-result",
+      "build-result",
+      "generation-provenance",
+      "lifecycle-command",
+      "lifecycle-plan",
+      "lifecycle-request",
+      "observation-result",
+      "resolved-sbom",
+      "security-scan-report",
+      "source-cache-decision",
+      "source-cache-lifecycle",
+      "source-intelligence",
+      "source-sbom",
+      "test-report",
+      "test-runner",
+      "workspace-admission"
+    ],
+    "minimum_test_count": 1
+  },
+  "default_flavor_selectors": [
+    "+flavor://literate-ai/lang-python",
+    "+flavor://literate-ai/build-make",
+    "+flavor://literate-ai/package-pip",
+    "+flavor://literate-ai/os-linux"
+  ],
+  "mcp_roots": [
+    "mcps"
+  ],
+  "project_type": "application",
+  "repository_policy": {
+    "schema": "literate-ai/repository-policy@1",
+    "default_branch": "main",
+    "main_state": "pre-release",
+    "pre_release_version": "1.5",
+    "default_component": null,
+    "sample_component_roots": [
+      "samples"
+    ],
+    "work_queue": "docs/roadmap/active-work.md",
+    "remote": "origin",
+    "merge_method": "merge",
+    "pull_request_labels": [],
+    "release_engineer_source": "README.md#release-engineers",
+    "release_ci_workflow": "CI",
+    "patch_authority": "strict",
+    "writers": [],
+    "branch_gc_minimum_age_days": 7
+  }
+}

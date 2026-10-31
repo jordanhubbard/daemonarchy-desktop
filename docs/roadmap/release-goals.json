@@ -1,0 +1,11 @@
+{
+  "schema": "literate-ai/release-roadmap-goals@1",
+  "roadmap": "docs/roadmap/active-work.md",
+  "releases": {
+    "1.5.0": [
+      {
+        "id": "DESKTOP-001"
+      }
+    ]
+  }
+}
