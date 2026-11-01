@@ -12,11 +12,11 @@ stages:
 dependencies:
   - schema: "urn:literate-ai:schema:v1:skill-reference"
     skill_id: "portable-application-implementation"
-    version: "1.8.4"
+    version: "1.8.5"
     identity:
       schema: "urn:literate-ai:schema:v1:content-identity"
       algorithm: "sha256"
-      digest: "55dece8843519c6ced884d7cd9eb5d8bff04ebccef055c74c5bfcf176ccd06cd"
+      digest: "0df5d4b45e8ff6a1e3b670add69e4897fd29bfdcd2e521275d602809e4704f5f"
 limitations:
   - "Use only the Swift standard library; do not require Foundation, SwiftPM, third-party packages, or platform-specific APIs."
 trust: "repository-reviewed"

@@ -71,20 +71,26 @@ fastest-turnaround path; do not wait on hosted CI that the record makes optional
    `skills/agent/associate-release-jira/SKILL.md` in this session to associate
    or record `institutional_channels.jira_issue`. Do not re-post author
    envelopes; `litai` already fan-out on mutagenic success.
-6. Follow `verify-published/SKILL.md` with that same prepared record, then run one
-   final contribution sweep so work arriving during publication starts the next
-   disposition loop instead of disappearing from release evidence.
-7. After `verify-published` succeeds for a stable release, update the root
+6. Follow `verify-published/SKILL.md` with that same prepared record. On the first
+   post-publication read-back, require its tag, branch, provider, notes, asset and
+   collateral checks to pass. Keep the README-only check pending until step 7;
+   a named README-only finding does not block that corrective update, while every
+   other verification failure does. This first read-back is not final release
+   completion. Repeat the contribution sweep so arriving work remains recorded.
+7. After those publication checks succeed for a stable release, update the root
    `README.md` latest-release or download section to that release. Take the tag
    link, release title, and every user-facing asset name, size and SHA-256 from
    the verified published provider release (`draft=false`). Never take them from
    local build outputs, the prepared record alone, or a draft or unpublished
-   release. Remove or demote any text that still calls the previous release
+   release. Obtain SHA-256 from the provider's published asset digest, or hash the
+   downloaded published asset when the provider omits it. Remove or demote any text
+   that still calls the previous release
    "latest" or "current", for example by moving it under previous releases.
    A prerelease does not replace the stable entry unless the release policy
    says so. Land the change on the default branch through
    `develop-in-production-workflow/staging/dev/land/`. Then repeat
-   `verify-published/SKILL.md` until its README check passes.
+   `verify-published/SKILL.md` and require every check, including README, to pass
+   before reporting final release completion.
 8. Follow `advance/SKILL.md` when the default branch still reports a shipped
    version. Then follow `notify-descendants/SKILL.md` for operator-named
    children.
