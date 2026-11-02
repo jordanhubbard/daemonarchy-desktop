@@ -6,6 +6,7 @@
 generated/*
 !generated/committed-source-cache/
 .litai-cache-locks/
+/.litai-locks/
 .component*.write.lock
 
 # Per-user or session worker assignments. Keep the checked-in example synthetic.

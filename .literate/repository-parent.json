@@ -5,7 +5,7 @@
     {
       "schema": "urn:literate-ai:schema:v1:repository-parent-reference",
       "repository_url": "https://github.com/jordanhubbard/literate-ai",
-      "requested_revision": "v1.3.1"
+      "requested_revision": "ad979c6e67f74acbc914a2c387a86b00f06ade65"
     }
   ]
 }

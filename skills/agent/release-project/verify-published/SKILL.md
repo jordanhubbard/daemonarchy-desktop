@@ -27,15 +27,18 @@ writes nothing.
    prerelease candidates must be published prereleases.
    For a major/minor document pair, require the release-bound receipt and its
    exported read-back hashes to match the exact prepared revision.
-5. For a stable release, after the README update from `../SKILL.md` lands,
-   check the remote default branch's root `README.md`. It must name the
-   just-published tag and release title as the latest release. Every user-facing
-   asset it lists must match the published provider release by name, size and
-   SHA-256, and no other release may still be called "latest" or "current". The
-   CLI does not check this yet. Report any mismatch as the named failure
-   `readme-latest-release-stale`, with the expected and observed values, and
-   repeat the check after the fix lands. A prerelease leaves the stable entry
-   unchanged unless the release policy says otherwise.
+5. When policy @2 declares `readme_latest_release`, the CLI checks the remote
+   default branch's root `README.md` at a fixed commit after tag/provider/asset
+   checks. Its declared visible marker section must match the published title,
+   tag and every asset's name, URL, size and SHA-256. Missing provider digests
+   require fresh provider bytes. Contradictory latest/current release claims
+   elsewhere fail too. On `release.readme_latest_stale`, inspect the expected
+   and observed values, land the corrective README update, and rerun this command.
+   A prerelease checks the current stable release unless the policy explicitly
+   includes prereleases; it never skips README verification. With no published
+   stable release, the section states that none has been published.
+   Projects without the optional declaration retain the manual README check:
+   compare the same remote publication surface and report stale claims.
 6. Run a final `litai release contributions sweep` after remote verification.
    New work is not silently swept into the release that just shipped: classify
    it for the next milestone so the next cycle begins from durable state.
