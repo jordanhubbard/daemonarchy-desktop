@@ -7,7 +7,7 @@
       {
         "schema": "urn:literate-ai:schema:v1:repository-parent-reference",
         "repository_url": "https://github.com/jordanhubbard/literate-ai",
-        "requested_revision": "ad979c6e67f74acbc914a2c387a86b00f06ade65"
+        "requested_revision": "b26dd359b32f6138a1b199b79ffbbf8c935b48db"
       }
     ]
   },
@@ -18,11 +18,11 @@
       "project_identity": {
         "schema": "urn:literate-ai:schema:v1:content-identity",
         "algorithm": "sha256",
-        "digest": "c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28"
+        "digest": "aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5"
       },
       "repository_url": "https://github.com/jordanhubbard/literate-ai",
-      "requested_revision": "ad979c6e67f74acbc914a2c387a86b00f06ade65",
-      "resolved_revision": "ad979c6e67f74acbc914a2c387a86b00f06ade65",
+      "requested_revision": "b26dd359b32f6138a1b199b79ffbbf8c935b48db",
+      "resolved_revision": "b26dd359b32f6138a1b199b79ffbbf8c935b48db",
       "parent_selection": {
         "schema": "urn:literate-ai:schema:v1:repository-parent-selection",
         "mode": "root",
@@ -35,7 +35,7 @@
     {
       "schema": "urn:literate-ai:schema:v1:content-identity",
       "algorithm": "sha256",
-      "digest": "1d85b42dedd5f0bdd1363c4f2f218a9afe5989ac986d3200b307a9d6efdf8f2d"
+      "digest": "0a4914c8d188b69bd5711aa0f2918dfe27c705f71cb1728b7be65564b481b584"
     }
   ]
 }

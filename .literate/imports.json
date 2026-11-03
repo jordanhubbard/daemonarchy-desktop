@@ -8,8 +8,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -30,7 +30,7 @@
           "identity": "sha256:c15a94c0a206f76218593d82a48bf71bf7c4e410a8ce2c4e38ba24875ad38bc0"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -39,8 +39,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -65,7 +65,7 @@
           "identity": "sha256:25c53b9671d81cad94f98d8a539f55e11833cc63d0c2e2d950be0986bea02373"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -74,8 +74,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -92,7 +92,7 @@
           "identity": "sha256:d6b003d2c24caea3fb416b3456feac27e59ccc67d6e4728d426081315387c7c9"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -101,8 +101,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -127,7 +127,7 @@
           "identity": "sha256:18795b8a8e7efbf55cf473aa06e646327c5d2c094f94fffea264fb6232bdc51b"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -136,8 +136,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -150,7 +150,7 @@
           "identity": "sha256:983f3b7aeacb9dbe1ee59b84800be78938926e200b2ff71925e860a26c856283"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -159,8 +159,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -169,7 +169,7 @@
           "identity": "sha256:cfd83da047b5ba1534316e856eb74686b90b4a33f803e936e848a1798624f110"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -178,8 +178,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -188,7 +188,7 @@
           "identity": "sha256:df6705ce35984f6e89d00899aff53074445773d81c4f8e38c3833c73c31efb9a"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -197,8 +197,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -207,7 +207,7 @@
           "identity": "sha256:1900650ad08554ab7178f4401d43f878d7f682c1133799b2db0227f32604ffa5"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -216,8 +216,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -226,7 +226,7 @@
           "identity": "sha256:6981c5c85c0de985964eb9ef1c8c1bea10066e8309252b15834d954b4240e77d"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -235,8 +235,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -245,7 +245,7 @@
           "identity": "sha256:72a0739e4230d7d22f8231e849df9220759b076da68b86604fdacd5db2596cb6"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -254,8 +254,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -264,7 +264,7 @@
           "identity": "sha256:29c52d73a220271cd3a4208f0e284fe9752a2b85d2b7f8f5774c1d50578817bc"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -273,8 +273,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -283,7 +283,7 @@
           "identity": "sha256:3535e5fe6b1b49ff364ee56ff6eca7d8ab0afa90b7b5dade1860ef572f403633"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -292,8 +292,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -302,7 +302,7 @@
           "identity": "sha256:75e9948fb0f71686ca40e626c9872db74e37708146fd7812216c91ca74370bca"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -311,8 +311,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -321,7 +321,7 @@
           "identity": "sha256:6b8262a7d222b6cbba62bf21251bb3da6855802c646ee89745d014f9f7b89cd4"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -330,8 +330,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -340,7 +340,7 @@
           "identity": "sha256:c2350549d7a0cedb11d5281d1218ef126b515997dd5f7e5596c5ab63bbc9bbb9"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -349,8 +349,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -359,7 +359,7 @@
           "identity": "sha256:a9b6e7c2cef5c6666473741400af74a9a002e990740a54c1f129a3833d0ff2f9"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -368,8 +368,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -378,7 +378,7 @@
           "identity": "sha256:4a468d983d02142aecc52f98c995eae97b2be74dc96663bdf81d006bb309ef5f"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -387,8 +387,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -397,7 +397,7 @@
           "identity": "sha256:3494e9b8788a811a40b010be5b1f14d5a34be15a03e5d7c370114bc1ff4a0b40"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -406,8 +406,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -416,7 +416,7 @@
           "identity": "sha256:567581ca127fea5706fbcee1d20e5488ddbb76d5ad18a4483673c06079f1cf50"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -425,8 +425,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -435,7 +435,7 @@
           "identity": "sha256:2626a9c4b78258f23b59f954035c4f85def24ce85e24bd185b85ac865c0cc483"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -444,8 +444,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -454,7 +454,7 @@
           "identity": "sha256:f423443581d8215330039d987ca65eb50a40a97e00e2b650211cc69158596d86"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -463,8 +463,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -473,7 +473,7 @@
           "identity": "sha256:b7df3eaf9ee28a97508ac1656efbcab80b657d4c58ecf558165f08f8c6df325f"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -482,8 +482,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -492,7 +492,7 @@
           "identity": "sha256:e482003cb28f8b8c97d20c306853c6d03c8c1a83bfc8e4872ef2d5d193bfd1c6"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -501,8 +501,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -511,7 +511,7 @@
           "identity": "sha256:0dc6cc03349c7b4fd9b1b53547f3ccd585cedfcb59d5e9584a7545dccced81d0"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -520,8 +520,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -530,7 +530,7 @@
           "identity": "sha256:d33635731b4e01e7e58850d670b29b3dd772db4b56d6faf87ba09f60a47a5bc6"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -539,8 +539,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -553,7 +553,7 @@
           "identity": "sha256:85fb86048981ac107e712ed7cadec17868c0440e5f986da49bed0a7e7e7e132f"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -562,8 +562,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -572,7 +572,7 @@
           "identity": "sha256:7ad05f41ec2ce8d00a26ab045dffb0aad96df91d9f6e9c1ad8ad32e2b531cecd"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -581,8 +581,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -591,7 +591,7 @@
           "identity": "sha256:8466b8caf4412bdbba8c1df6091230fc12d59128cdaca7dfb0deb31c9ec1df5a"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -600,8 +600,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -610,7 +610,7 @@
           "identity": "sha256:596ff839642287155038c63b0387c74c9aee5c7e3ba58bd0ec44e7e7534ed273"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -619,8 +619,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -629,7 +629,7 @@
           "identity": "sha256:ae0cdd9ccd7f2db9cb1af3846e1abd245b25e1ec6beacfd69d4f26993b7f731d"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -638,8 +638,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -648,7 +648,7 @@
           "identity": "sha256:f0397fd202b5acf0c28f684f717e0c3b558900525d070622038ce5299538161b"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -657,8 +657,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -667,7 +667,7 @@
           "identity": "sha256:caeda8bfb99e9120503eb801fbc5b618bff84ba549ea85b76618ac0a30a90908"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -676,8 +676,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -686,7 +686,7 @@
           "identity": "sha256:20c16610ae45d0fda94f3720a450a0836775c1569ad460130a14ccc63cec6a72"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -695,8 +695,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -705,7 +705,7 @@
           "identity": "sha256:132d15ac3d1ea30175b51372a81efc2e3c8b0a1600940f9ed72a863a9a21966d"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -714,8 +714,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -724,7 +724,7 @@
           "identity": "sha256:0e60ee2b1e7cab6e0ae99e8944e9886c6678bfc69462e0165db2e32c9b1954c1"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -733,8 +733,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -743,7 +743,7 @@
           "identity": "sha256:df6b4739c27798af1f48aeb4633899e4c6ebe9279f81cfc7fbaded8e27267253"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -752,8 +752,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -762,7 +762,7 @@
           "identity": "sha256:9829ce62095d316dc83a3913c38d98b9fa7ff74c74cd126ee0cdaf2569c9a7f6"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -771,8 +771,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -781,7 +781,7 @@
           "identity": "sha256:8b02b37124db362a156c1de4c3a87485075e8429cae1cb74da692a0de9b87664"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -790,8 +790,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -800,7 +800,7 @@
           "identity": "sha256:5451cd5d1dd42e4ab60c2ddd143f1d9352bcf36c1b13c2b4ba353c667832c229"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -809,8 +809,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -819,7 +819,7 @@
           "identity": "sha256:a47c038731a1d18703d82a48da4abdfb7c430cb467aa0f8149030e02c99a961d"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -828,8 +828,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -838,7 +838,7 @@
           "identity": "sha256:999abeaa60c38dfdf51dfadfd2810566c8185bedcbbc002f49e3208af1019665"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -847,8 +847,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -857,7 +857,7 @@
           "identity": "sha256:625cbf94cd7e4df9d234933bc62ce8e9bc72a2d90b97e43be0d54d0689978171"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -866,8 +866,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -876,7 +876,7 @@
           "identity": "sha256:b6505fb3d040c26cdc46c822b1835d24b2a4f5c6a4cba68014c8ba520705cbf8"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -885,8 +885,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -895,7 +895,7 @@
           "identity": "sha256:d6b2dde9cea80ffe9b592de0de324715539ec8cc4b01f0637bb290c5805396a4"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -904,8 +904,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -914,7 +914,7 @@
           "identity": "sha256:d85338ed26e3dabaf56fa62f0bf066278a69ee8d39cd71fd1eba4fee7d06a897"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -923,8 +923,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -933,7 +933,7 @@
           "identity": "sha256:f20df2d792af22a73b0f0475767ce34c01841c0b2da6bf8030114c621d61b5c6"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -942,8 +942,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -952,7 +952,7 @@
           "identity": "sha256:38b1a9f0031943567c57e34dd3ccf6a271a5b58a613421d14a7cf43e50578ad9"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -961,8 +961,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -971,7 +971,7 @@
           "identity": "sha256:6b6257e224953b9fb7c453891da7a749d8030af1f7a34ce5146a9811eace4993"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -980,8 +980,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -990,7 +990,7 @@
           "identity": "sha256:4544e670cc03770d7ebe8838921485791e79c09f66db8d737f593bcfc3711b00"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -999,8 +999,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -1009,7 +1009,7 @@
           "identity": "sha256:0f204e072fde0c2bbfd98ae5ee47c502d1bbc15965f00aa223ce1f9126dea999"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -1018,8 +1018,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -1028,7 +1028,7 @@
           "identity": "sha256:2c77bde5af0a7eb36507a9eadb6baf9c01c75f8bdc858ac80156770b45234c98"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -1037,8 +1037,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -1047,7 +1047,7 @@
           "identity": "sha256:b96c8612765837bd7754c4b58a6d0427e1efb5c4025d3e96a0a908a4de81fcfa"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -1056,8 +1056,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -1066,7 +1066,7 @@
           "identity": "sha256:249d8677d910ec759ca70aa2625b815b32180e48bc8028d9963d44b58ff398e2"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -1075,8 +1075,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -1085,7 +1085,7 @@
           "identity": "sha256:3170803f41b234fbc642da2b7bd2f5bcb5eba9a4931bd5bde9b47948c7e2a979"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -1094,8 +1094,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -1104,7 +1104,7 @@
           "identity": "sha256:4e431fe6ec631d2ab474eedc5b5922965b1f4b93946d20f438bc409573b47bdb"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -1113,8 +1113,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -1123,7 +1123,7 @@
           "identity": "sha256:a6740068761cd5a87062fe34d332ee6b3fa5c52044283f1b7622b44b36717346"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -1132,8 +1132,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -1142,7 +1142,7 @@
           "identity": "sha256:0df5d4b45e8ff6a1e3b670add69e4897fd29bfdcd2e521275d602809e4704f5f"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -1151,8 +1151,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -1161,7 +1161,7 @@
           "identity": "sha256:7bfdd0ddf52d2ddf5d6ac5ed6536b999da474323978937e72f4e4d3b1dface38"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -1170,8 +1170,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -1180,7 +1180,7 @@
           "identity": "sha256:dc55053251cfb061dd2adcd3ba0ba3d3bbf4086f6bddaee7b9959efef736889f"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -1189,8 +1189,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -1199,7 +1199,7 @@
           "identity": "sha256:c82b86cfb0550d2b829b0114c6dc7132fbfea9ce19dcac47202ec04a60839c15"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -1208,8 +1208,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -1218,7 +1218,7 @@
           "identity": "sha256:dd72201076f769cb034cd6235d8eda328bb239738ffe5f91f20ddca4fc958e57"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -1227,8 +1227,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -1237,7 +1237,7 @@
           "identity": "sha256:39f0145075f349d8dac3bf0f00484c73a8588a3e9f3dd983240bac5dc4854a33"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -1246,8 +1246,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -1256,7 +1256,7 @@
           "identity": "sha256:5ba9bdaf53b24025ed9395119d6a7c52f196b4d89863e614e26596b49a5d2c18"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -1265,8 +1265,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -1275,7 +1275,7 @@
           "identity": "sha256:66300e3d454909afd4505abb2352040184585831cd316641f6e0f508902dc77f"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -1284,8 +1284,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -1294,7 +1294,7 @@
           "identity": "sha256:2c2701e980830fb4e04c6f43d58b8464d13d47459a7258663372df46dbccac06"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -1303,8 +1303,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -1313,7 +1313,7 @@
           "identity": "sha256:d035c2e2990588fb133a378b6798066525584a7c6eb623bccc638e58acd3a468"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -1322,8 +1322,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -1332,7 +1332,7 @@
           "identity": "sha256:8fe39e00b7e1e1ab6577d70d5f91c298fc0409535f7b1a23991b6ef7709538d1"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -1341,8 +1341,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -1351,7 +1351,7 @@
           "identity": "sha256:64424cf72fde2c06f73df88fcba06a00f781a82c4ecdbe22747938412be8ddd8"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     },
     {
       "schema": "literate-ai/catalog-import@2",
@@ -1360,8 +1360,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -1370,7 +1370,7 @@
           "identity": "sha256:1c7fc76d6b639cdce172a90f47d27114cc4e97d17b167e55d6b9c132acb00699"
         }
       ],
-      "copied_at": "2026-11-01T21:42:51.321513+00:00"
+      "copied_at": "2026-11-03T03:34:54.273248+00:00"
     }
   ],
   "decisions": [
@@ -1381,8 +1381,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -1400,8 +1400,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -1419,8 +1419,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -1442,8 +1442,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -1461,8 +1461,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -1480,8 +1480,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -1499,8 +1499,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -1518,8 +1518,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -1545,8 +1545,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -1572,8 +1572,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -1595,8 +1595,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -1618,8 +1618,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -1641,8 +1641,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -1660,8 +1660,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -1679,8 +1679,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -1698,8 +1698,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -1717,8 +1717,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -1736,8 +1736,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -1755,8 +1755,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -1774,8 +1774,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -1797,8 +1797,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -1816,8 +1816,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -1835,8 +1835,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -1854,8 +1854,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -1885,8 +1885,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -1904,8 +1904,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -1923,8 +1923,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -1942,8 +1942,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -1961,8 +1961,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -1984,8 +1984,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -2003,8 +2003,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -2034,8 +2034,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -2053,8 +2053,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -2072,8 +2072,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -2091,8 +2091,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -2110,8 +2110,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -2129,8 +2129,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -2148,8 +2148,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -2167,8 +2167,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -2186,8 +2186,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -2205,8 +2205,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -2236,8 +2236,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -2259,8 +2259,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -2290,8 +2290,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -2321,8 +2321,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -2352,8 +2352,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -2383,8 +2383,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -2414,8 +2414,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -2441,8 +2441,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -2468,8 +2468,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -2491,8 +2491,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -2518,8 +2518,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -2545,8 +2545,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -2576,8 +2576,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -2611,8 +2611,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -2638,8 +2638,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -2673,8 +2673,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -2708,8 +2708,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -2739,8 +2739,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -2766,8 +2766,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -2801,8 +2801,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -2832,8 +2832,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -2859,8 +2859,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -2894,8 +2894,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -2929,8 +2929,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -2964,14 +2964,18 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
         {
           "path": "flavors/os-windows/flavor.md",
           "identity": "sha256:3fb76663d8ca948376530801aaed6a65cf61cc18e89418eb262c5a8e238a73e0"
+        },
+        {
+          "path": "flavors/os-windows/host-install/windows/arm64/none.cdx.json",
+          "identity": "sha256:2e02870af71f11f608a697eb5a7a6931335d29f60d237d054a5352cc2e972a47"
         },
         {
           "path": "flavors/os-windows/host-install/windows/x86_64/none.cdx.json",
@@ -2983,7 +2987,7 @@
         },
         {
           "path": "flavors/os-windows/openspec/spec.md",
-          "identity": "sha256:24e4fabde865be3606fe4461a05b594c9fa315838bd330460039742ced790f5e"
+          "identity": "sha256:205db60e1c5ed5e5193d3488aa48d92a8584210e96a43af70297fdc3f405aa22"
         },
         {
           "path": "flavors/os-windows/standard-command-profile.json",
@@ -2999,8 +3003,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -3022,8 +3026,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -3045,8 +3049,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -3068,8 +3072,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -3091,8 +3095,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -3114,8 +3118,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -3149,8 +3153,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -3172,8 +3176,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -3195,8 +3199,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -3218,8 +3222,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -3241,8 +3245,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -3268,8 +3272,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -3295,8 +3299,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -3322,8 +3326,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -3349,8 +3353,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -3372,8 +3376,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -3391,8 +3395,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -3410,8 +3414,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -3429,8 +3433,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -3448,8 +3452,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -3467,8 +3471,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -3490,8 +3494,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -3509,8 +3513,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -3528,8 +3532,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -3547,8 +3551,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -3566,8 +3570,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -3593,8 +3597,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -3612,8 +3616,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -3631,8 +3635,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -3650,8 +3654,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -3669,8 +3673,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -3692,8 +3696,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -3711,14 +3715,14 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
         {
           "path": "skills/agent/detect-before-install/SKILL.md",
-          "identity": "sha256:d65df95741a18eaef986f6811b763beaf1a9f6ac0211452740e2cff3d8661993"
+          "identity": "sha256:11831bbf53e90245efe50e24112401c03b87ea0478d7ecf16b895cbaf34d529d"
         },
         {
           "path": "skills/agent/detect-before-install/agents/openai.yaml",
@@ -3726,7 +3730,7 @@
         },
         {
           "path": "skills/agent/detect-before-install/references/tool-matrix.md",
-          "identity": "sha256:0652ec87688567446fad83dbec7b9a78930006d6549244878351a2d53bb8290f"
+          "identity": "sha256:d550ea1ac10d5060efb78bf211b3bf9f40328abb46ce150e4267385ee82d3220"
         },
         {
           "path": "skills/agent/detect-before-install/scripts/bootstrap.ps1",
@@ -3734,7 +3738,7 @@
         },
         {
           "path": "skills/agent/detect-before-install/scripts/bootstrap.py",
-          "identity": "sha256:6962814d905c8f233fbf3ffea0f95b6485c126dda7264e6d77f052bbc06a90fd"
+          "identity": "sha256:c1c39a4da9ca0a79a94a45ad2fd47e54cde5c436f10124e8f1ec08d2e8eb0708"
         }
       ],
       "disposition": "effective"
@@ -3746,8 +3750,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -3765,8 +3769,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -3784,8 +3788,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -3803,8 +3807,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -3822,8 +3826,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -3841,8 +3845,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -3860,8 +3864,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -3879,8 +3883,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -3898,8 +3902,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -3917,8 +3921,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -3940,8 +3944,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -3963,8 +3967,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -3982,8 +3986,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -4001,8 +4005,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -4020,8 +4024,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -4039,8 +4043,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -4058,8 +4062,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -4077,8 +4081,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -4096,8 +4100,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -4115,8 +4119,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -4134,8 +4138,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -4153,8 +4157,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -4172,8 +4176,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -4191,8 +4195,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -4210,8 +4214,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -4233,8 +4237,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -4252,8 +4256,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -4271,8 +4275,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -4290,8 +4294,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -4309,8 +4313,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -4328,8 +4332,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -4347,8 +4351,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -4366,8 +4370,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -4385,8 +4389,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -4404,8 +4408,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -4423,8 +4427,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -4442,8 +4446,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -4461,8 +4465,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -4480,8 +4484,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -4499,8 +4503,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -4518,8 +4522,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -4537,8 +4541,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -4556,8 +4560,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -4575,8 +4579,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -4594,8 +4598,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -4613,8 +4617,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -4632,8 +4636,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -4651,8 +4655,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -4670,8 +4674,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -4689,8 +4693,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -4708,8 +4712,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -4727,8 +4731,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -4746,8 +4750,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -4765,8 +4769,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -4784,8 +4788,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -4803,8 +4807,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -4826,8 +4830,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -4845,8 +4849,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -4864,8 +4868,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -4883,8 +4887,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -4902,8 +4906,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -4921,8 +4925,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -4940,8 +4944,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -4959,8 +4963,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -4978,8 +4982,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -4997,8 +5001,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -5016,8 +5020,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -5035,8 +5039,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -5054,8 +5058,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -5073,8 +5077,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -5092,8 +5096,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -5111,8 +5115,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -5130,8 +5134,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -5149,8 +5153,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -5168,8 +5172,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -5187,8 +5191,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -5206,8 +5210,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
@@ -5225,8 +5229,8 @@
       "source": {
         "schema": "literate-ai/catalog-import-source@1",
         "project_id": "literate-ai",
-        "project_identity": "sha256:c37f8a87c7f0256c44f7aca03b65853d55946a7041691e1dd2b164700fa6bf28",
-        "ref": "git:https://github.com/jordanhubbard/literate-ai@ad979c6e67f74acbc914a2c387a86b00f06ade65",
+        "project_identity": "sha256:aa6d7f807ca5596dd17c316b7e9a4ce1b52d430d91f5ab3d61e86760960ed0e5",
+        "ref": "git:https://github.com/jordanhubbard/literate-ai@b26dd359b32f6138a1b199b79ffbbf8c935b48db",
         "transitive_ancestors": []
       },
       "files": [
