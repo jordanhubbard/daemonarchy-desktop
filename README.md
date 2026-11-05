@@ -44,3 +44,7 @@ in the feed. The last tag before this convention is `v1.1.1`; tags `v1.2.0` to `
 (the port pinned commits), so the first tag under this convention is the product's next release.
 `tests/check.py` is the release gate: it checks the shell tools, the menu, the SVG artwork and the desktop
 entry without installing anything.
+
+## License
+
+This repository is part of the Daemonarchy project. See [LICENSE](LICENSE) and [licenses/README.md](licenses/README.md) for which files are under which license.
